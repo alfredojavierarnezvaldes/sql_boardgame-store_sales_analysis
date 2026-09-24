@@ -11,12 +11,12 @@ SELECT * FROM products;
 -- 3. Orders ordered by price
 SELECT * 
 FROM orders
-ORDER BY price desc;
+ORDER BY order_date desc;
 
 -- 4. Customers from Cochabamba
 SELECT *
 FROM customers
-WHERE city = 'Cochabamba';
+WHERE department = 'Cochabamba';
 
 -- 5. Orders after October 10, 2025
 SELECT *
