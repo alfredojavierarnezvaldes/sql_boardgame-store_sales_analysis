@@ -1,5 +1,5 @@
 -- ADVANCED SQL QUERIES
--- Subqueries and CTEs
+-- Subqueries and aggregations
 
 -- 1. Customers that spent more than the average
 
